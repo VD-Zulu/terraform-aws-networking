@@ -126,3 +126,6 @@ Terraform resources are removed using:
 terraform destroy
 Author
 Cloud Engineering Student — MZ-UCA Cloud Academy
+
+Infrastructure Cleanup
+Screenshot: screenshots/12-terraorm-destroy.png
